@@ -36,7 +36,7 @@ Wszystkie funkcje mogą zostać wyłączone za pomocą tych klawiszy:
 		<text name="vca_tip_LIMIT"      text="Kontrola prędkości tempomatu (bez/z Lewy Shift)"/>
 		<text name="vca_tip_PEEKLR"     text="Zerknij się szybko w bok (Prawy Shift + strzałki w bok)"/>
 		<text name="vca_tip_ANGLE"      text="Najnowsza funkcja"/>
-		<text name="vca_tip_BRAKE"      text="Procentowo najniża siła hamowania, czyli opór toczenia"/>
+		<text name="vca_tip_BRAKE"      text="Procentowo najniższa siła hamowania, czyli opór toczenia"/>
 		<text name="vca_tip_TRANSMISSION" text="Rodzaj skrzyni biegów; Przekładnia bezstopniowa (IVT), wszystkie pozostałe mają 12 różnych biegów, 2x6 jest najlepszą dla samochodów ciężarowych"/>
 		<text name="vca_tip_MAXSPEED"   text="Maksymalna prędkość najwyższego biegu, może być większa niż maksymalna prędkość pojazdu"/>
 		<text name="vca_tip_LIMSPEED"   text="Ogranicza maksymalną prędkość pojazdu do wartości domyślnej"/>
